@@ -1,5 +1,8 @@
-# Australian-island-calculator-
-Course Project - Australian island calculator 
+# Australian-island-calculator
+ANU Course Project - Australian island calculator 
+Done by Shiqin Huo, Ran Cui, Tianyu Cao -- COMP1730 Course Project
+
+15 October 2016 submitted
 
 1. The programme strictly follows the function levels described in assignment specification. Note that function level 4 is incorporated in only level 3.
 
